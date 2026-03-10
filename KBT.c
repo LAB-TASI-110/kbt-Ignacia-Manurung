@@ -1,4 +1,5 @@
-//  Ignacia Putri Manurung - 12S25034
+//  Nama : Ignacia Putri Manurung
+// NIM : 12S25034
 
 #include <stdio.h>    // Untuk fungsi input/output seperti printf, scanf, fgets
 #include <stdlib.h>   // Untuk fungsi umum seperti rand, srand
